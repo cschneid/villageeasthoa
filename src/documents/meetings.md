@@ -10,17 +10,17 @@ permalink: /documents/meetings/
 
 | Year | Document |
 |---|---|
-| 2026 | [2026 Budget](/static/pdfs/financial/BUDGET-2026.pdf) |
-| 2025 | [2025 Financials](/static/pdfs/financial/Village-East-2025-Financials.pdf) · [2025 Budget](/static/pdfs/financial/BUDGET-2025.pdf) |
-| 2024 | [2024 Financials](/static/pdfs/financial/Village-East-HOA-2024-Financials.pdf) · [2024 End of Year Financials](/static/pdfs/financial/Village-East-2024-End-of-Year-Financials.pdf) |
-| 2023 | [2023 Budget](/static/pdfs/financial/2023-budget.pdf) |
-| 2022 | [2022 Financial Report](/static/pdfs/financial/2022-financial-report.pdf) |
-| 2021 | [2021 Financial Statements](/static/pdfs/financial/2021-Financial-Statements-Village-East.pdf) · [2021 Budget](/static/pdfs/financial/VEHOA-2021-Budget.pdf) |
-| 2020 | [2020 Financial Statements](/static/pdfs/financial/VEHOA-2020-Financial-Statements.pdf) |
-| 2019 | [2019 Finances](/static/pdfs/financial/2019-Finances.pdf) |
-| 2018 | [2018 Finances](/static/pdfs/financial/2018-Finances.pdf) |
-| 2017 | [2017 Financial Report](/static/pdfs/financial/Village-East-Financial-Report-2017.pdf) |
-| 2016 | [2016 Financial Report](/static/pdfs/financial/Village-East-Financial-Report-2016.pdf) |
+| 2026 | [Proposed Budget](/static/pdfs/financial/BUDGET-2026.pdf) |
+| 2025 | [Proposed Budget](/static/pdfs/financial/BUDGET-2025.pdf) · [Year-End Financials](/static/pdfs/financial/Village-East-2025-Financials.pdf) |
+| 2024 | [Mid-Year Financials](/static/pdfs/financial/Village-East-HOA-2024-Financials.pdf) · [Year-End Financials](/static/pdfs/financial/Village-East-2024-End-of-Year-Financials.pdf) |
+| 2023 | [Proposed Budget](/static/pdfs/financial/2023-budget.pdf) |
+| 2022 | [Year-End Financials](/static/pdfs/financial/2022-financial-report.pdf) |
+| 2021 | [Proposed Budget](/static/pdfs/financial/VEHOA-2021-Budget.pdf) · [Year-End Financials](/static/pdfs/financial/2021-Financial-Statements-Village-East.pdf) |
+| 2020 | [Year-End Financials](/static/pdfs/financial/VEHOA-2020-Financial-Statements.pdf) |
+| 2019 | [Year-End Financials](/static/pdfs/financial/2019-Finances.pdf) |
+| 2018 | [Year-End Financials](/static/pdfs/financial/2018-Finances.pdf) |
+| 2017 | [Year-End Financials](/static/pdfs/financial/Village-East-Financial-Report-2017.pdf) |
+| 2016 | [Year-End Financials](/static/pdfs/financial/Village-East-Financial-Report-2016.pdf) |
 
 ## Insurance
 
