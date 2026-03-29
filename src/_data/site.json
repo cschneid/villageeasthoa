@@ -1,0 +1,18 @@
+{
+  "title": "Village East HOA",
+  "tagline": "Fort Collins, CO - First Filing",
+  "location": "Midtown Fort Collins, northwest corner of Horsetooth and Lemay",
+  "email": "hoavillageeast@gmail.com",
+  "address": {
+    "name": "VEHOA",
+    "street": "P.O. Box 270767",
+    "city": "Fort Collins",
+    "state": "CO",
+    "zip": "80527"
+  },
+  "board": [
+    { "role": "President", "name": "Tiffany Burgess" },
+    { "role": "Treasurer", "name": "Brad Yontz" },
+    { "role": "Board Member", "name": "Chris Schneider" }
+  ]
+}

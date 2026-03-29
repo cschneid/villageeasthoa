@@ -1,0 +1,171 @@
+/* Village East HOA — Base Styles */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+a {
+  color: #1a6bb5;
+}
+
+a:hover {
+  color: #0d4a7a;
+}
+
+/* Header */
+.site-header {
+  text-align: center;
+  padding: 1.5rem 0 0.5rem;
+}
+
+.site-header h1 {
+  margin: 0;
+}
+
+.site-header h1 a {
+  text-decoration: none;
+  color: #1a3a5c;
+}
+
+.tagline {
+  color: #666;
+  margin: 0.25rem 0 0;
+  font-size: 1rem;
+}
+
+/* Navigation */
+nav {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 2rem;
+}
+
+.nav-main {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem;
+}
+
+.nav-main > li {
+  position: relative;
+  padding: 0.5rem 0.75rem;
+}
+
+.nav-main > li > a,
+.nav-main > li > span {
+  text-decoration: none;
+  color: #1a3a5c;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.nav-sub {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  border: 1px solid #ddd;
+  list-style: none;
+  padding: 0.25rem 0;
+  margin: 0;
+  min-width: 180px;
+  z-index: 10;
+}
+
+.dropdown:hover .nav-sub {
+  display: block;
+}
+
+.nav-sub li a {
+  display: block;
+  padding: 0.35rem 0.75rem;
+  text-decoration: none;
+  color: #333;
+}
+
+.nav-sub li a:hover {
+  background: #f0f4f8;
+}
+
+/* Main content */
+main {
+  min-height: 60vh;
+}
+
+main h1 {
+  color: #1a3a5c;
+}
+
+main h2, main h3 {
+  color: #2c5282;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+
+th {
+  background: #f0f4f8;
+}
+
+/* Photo gallery */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Footer */
+footer {
+  border-top: 1px solid #ddd;
+  margin-top: 3rem;
+  padding: 1.5rem 0;
+  text-align: center;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .nav-main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav-sub {
+    position: static;
+    border: none;
+    display: block;
+    padding-left: 1rem;
+  }
+}

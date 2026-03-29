@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} — {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <header>
+    <div class="site-header">
+      <h1><a href="/">{{ site.title }}</a></h1>
+      <p class="tagline">{{ site.tagline }}</p>
+    </div>
+    <nav>
+      <ul class="nav-main">
+        <li><a href="/">Home</a></li>
+        <li><a href="/homeowners/">Home Owners</a></li>
+        <li><a href="/agents/">Agents &amp; Title Companies</a></li>
+        <li><a href="/events/">Events</a></li>
+        <li class="dropdown">
+          <span>Neighborhood</span>
+          <ul class="nav-sub">
+            <li><a href="/neighborhood/hoa/">HOA</a></li>
+            <li><a href="/neighborhood/schools/">Schools</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <span>Pool</span>
+          <ul class="nav-sub">
+            <li><a href="/pool/news/">News</a></li>
+            <li><a href="/pool/rules/">Rules &amp; Documents</a></li>
+            <li><a href="/pool/photos/">Photos</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <span>Documents</span>
+          <ul class="nav-sub">
+            <li><a href="/documents/bylaws/">HOA Bylaws</a></li>
+            <li><a href="/documents/meetings/">Meeting Documents</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer>
+    <p>{{ site.title }} &middot; {{ site.location }}</p>
+    <p>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a> &middot;
+      {{ site.address.name }}, {{ site.address.street }}, {{ site.address.city }}, {{ site.address.state }} {{ site.address.zip }}
+    </p>
+  </footer>
+</body>
+</html>
