@@ -11,6 +11,8 @@ Located in Midtown Fort Collins, on the northwest corner of Horsetooth and Lemay
 
 ![Pool](/static/img/pool-long.jpeg)
 
-## 2022 Pool Season
+## 2026 Pool Season
 
-We had a great summer this year! We were so glad to see everybody!
+**Pool opens Monday, May 25!** Hours: Monday–Sunday, 11:00 AM – 8:00 PM. Last day of the season is Monday, September 7.
+
+Check out the [Events](/events/) page for upcoming neighborhood activities.

@@ -10,9 +10,10 @@ permalink: /neighborhood/hoa/
 
 | Role | Name |
 |---|---|
-| President | Tiffany Burgess |
+| President | Richard Gardner |
+| Vice President | *currently vacant* |
 | Treasurer | Brad Yontz |
-| Board Member | Chris Schneider |
+| Secretary | Chris Schneider |
 
 ## Contact
 

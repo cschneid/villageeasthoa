@@ -6,19 +6,29 @@ permalink: /pool/news/
 
 # Pool News
 
-## Pool Opening Announcement
+## 2026 Pool Season
 
-Pool will open for the summer as soon as the State and County guidance allows.
+**Pool Opens:** Monday, May 25
+**Last Day:** Monday, September 7
 
 ### Summer Hours
 
-| Day | Hours |
-|---|---|
-| Monday–Thursday | 4:30 PM – 7:30 PM |
-| Friday | 4:30 PM – 8:30 PM (late nights until 10:00 PM on select Fridays) |
-| Saturday | 10:30 AM – 8:30 PM |
-| Sunday | 10:30 AM – 7:30 PM |
+Monday–Sunday: **11:00 AM – 8:00 PM**
 
-## Friday Late Night Swims
+## Pool Tags
 
-We will be doing late night swims again this year, with the pool staying open until 10pm on certain Fridays.
+You must have your pool tag with you when visiting the pool. Sign in correctly each time you visit. Pool tags are solely for occupants of the household.
+
+## Pool Memberships
+
+If you have family or friends interested in a pool membership, contact the HOA Board at [hoavillageeast@gmail.com](mailto:hoavillageeast@gmail.com).
+
+- [Pool Membership Info for New Members](/static/pdfs/pool/VEHOA-Pool-Membership-New-Members.pdf)
+
+## Unsupervised Children
+
+Children must be **10 years or older** to attend the pool without a guardian. They will need an emergency contact form on file and must pass a brief swim test with a lifeguard. Families with multiple children need a form for each child. Children without a form on file must be accompanied by an adult.
+
+## Swim Lessons
+
+Please see the lifeguards for information at the start of the season.

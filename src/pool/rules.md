@@ -8,18 +8,12 @@ permalink: /pool/rules/
 
 ## Hours
 
-### Summer Hours
+### 2026 Summer Hours
 
-- Sunday–Saturday: 10:30 AM – 8:30 PM
-- Friday: extended until 10:00 PM
+Monday–Sunday: **11:00 AM – 8:00 PM**
 
-### School Year Hours
-
-| Day | Hours |
-|---|---|
-| Sunday | 10:30 AM – 7:30 PM |
-| Monday–Friday | 3:30 PM – 7:30 PM |
-| Saturday | 10:30 AM – 7:30 PM |
+**Pool Opens:** Monday, May 25
+**Last Day:** Monday, September 7
 
 ## Pool Parties
 

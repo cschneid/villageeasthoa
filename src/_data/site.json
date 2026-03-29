@@ -11,8 +11,9 @@
     "zip": "80527"
   },
   "board": [
-    { "role": "President", "name": "Tiffany Burgess" },
+    { "role": "President", "name": "Richard Gardner" },
+    { "role": "Vice President", "name": "" },
     { "role": "Treasurer", "name": "Brad Yontz" },
-    { "role": "Board Member", "name": "Chris Schneider" }
+    { "role": "Secretary", "name": "Chris Schneider" }
   ]
 }
