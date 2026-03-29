@@ -41,6 +41,15 @@ permalink: /documents/meetings/
 
 | Month | Minutes |
 |---|---|
+| January (Annual) | [2025-January-Annual.pdf](/static/pdfs/minutes/2025/2025-January-Annual.pdf) |
+| February | [2025-February.pdf](/static/pdfs/minutes/2025/2025-February.pdf) |
+| March | [2025-March.pdf](/static/pdfs/minutes/2025/2025-March.pdf) |
+| April | [2025-April.pdf](/static/pdfs/minutes/2025/2025-April.pdf) |
+| May | [2025-May.pdf](/static/pdfs/minutes/2025/2025-May.pdf) |
+| June | [2025-June.pdf](/static/pdfs/minutes/2025/2025-June.pdf) |
+| July | [2025-July.pdf](/static/pdfs/minutes/2025/2025-July.pdf) |
+| August | [2025-August.pdf](/static/pdfs/minutes/2025/2025-August.pdf) |
+| September | [2025-September.pdf](/static/pdfs/minutes/2025/2025-September.pdf) |
 | October | [2025-October.pdf](/static/pdfs/minutes/2025/2025-October.pdf) |
 | December | [2025-December.pdf](/static/pdfs/minutes/2025/2025-December.pdf) |
 
