@@ -12,8 +12,8 @@ permalink: /documents/meetings/
 |---|---|
 | 2026 | [Proposed Budget](/static/pdfs/financial/BUDGET-2026.pdf) |
 | 2025 | [Proposed Budget](/static/pdfs/financial/BUDGET-2025.pdf) · [Year-End Financials](/static/pdfs/financial/Village-East-2025-Financials.pdf) |
-| 2024 | [Mid-Year Financials](/static/pdfs/financial/Village-East-HOA-2024-Financials.pdf) · [Year-End Financials](/static/pdfs/financial/Village-East-2024-End-of-Year-Financials.pdf) |
-| 2023 | [Proposed Budget](/static/pdfs/financial/2023-budget.pdf) |
+| 2024 | [Proposed Budget](/static/pdfs/financial/BUDGET-2024.pdf) · [Year-End Financials](/static/pdfs/financial/Village-East-2024-End-of-Year-Financials.pdf) |
+| 2023 | [Proposed Budget](/static/pdfs/financial/2023-budget.pdf) · [Year-End Financials](/static/pdfs/financial/Village-East-2023-Year-End-Financials.pdf) |
 | 2022 | [Year-End Financials](/static/pdfs/financial/2022-financial-report.pdf) |
 | 2021 | [Proposed Budget](/static/pdfs/financial/VEHOA-2021-Budget.pdf) · [Year-End Financials](/static/pdfs/financial/2021-Financial-Statements-Village-East.pdf) |
 | 2020 | [Year-End Financials](/static/pdfs/financial/VEHOA-2020-Financial-Statements.pdf) |
@@ -63,6 +63,12 @@ permalink: /documents/meetings/
 | April | [2024-April.pdf](/static/pdfs/minutes/2024/2024-April.pdf) |
 | May | [2024-May.pdf](/static/pdfs/minutes/2024/2024-May.pdf) |
 | June | [2024-June.pdf](/static/pdfs/minutes/2024/2024-June.pdf) |
+| July | [2024-July.pdf](/static/pdfs/minutes/2024/2024-July.pdf) |
+| August | [2024-August.pdf](/static/pdfs/minutes/2024/2024-August.pdf) |
+| September | [2024-September.pdf](/static/pdfs/minutes/2024/2024-September.pdf) |
+| October | [2024-October.pdf](/static/pdfs/minutes/2024/2024-October.pdf) |
+| November | [2024-November.pdf](/static/pdfs/minutes/2024/2024-November.pdf) |
+| December | [2024-December.pdf](/static/pdfs/minutes/2024/2024-December.pdf) |
 
 ### 2023
 
