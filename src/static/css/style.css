@@ -1,16 +1,17 @@
-/* Village East HOA — Base Styles */
+/* Village East HOA — Styles */
 
 *, *::before, *::after {
   box-sizing: border-box;
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   line-height: 1.6;
   color: #333;
-  max-width: 960px;
+  background: #fff;
+  max-width: 700px;
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0 1.25rem;
 }
 
 a {
@@ -21,14 +22,21 @@ a:hover {
   color: #0d4a7a;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Header */
 .site-header {
   text-align: center;
   padding: 1.5rem 0 0.5rem;
+  border-top: 3px solid #1a6bb5;
 }
 
 .site-header h1 {
   margin: 0;
+  font-size: 1.5rem;
 }
 
 .site-header h1 a {
@@ -131,6 +139,10 @@ th {
   background: #f0f4f8;
 }
 
+tbody tr:nth-child(even) {
+  background: #f8f9fa;
+}
+
 /* Photo gallery */
 .gallery {
   display: grid;
@@ -152,11 +164,11 @@ footer {
   padding: 1.5rem 0;
   text-align: center;
   color: #666;
-  font-size: 0.9rem;
+  font-size: 0.875rem;
 }
 
 /* Responsive */
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .nav-main {
     flex-direction: column;
     align-items: center;
@@ -167,5 +179,15 @@ footer {
     border: none;
     display: block;
     padding-left: 1rem;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .gallery {
+    grid-template-columns: 1fr;
   }
 }
