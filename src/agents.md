@@ -21,10 +21,10 @@ Primary expenditures are pool and park upkeep.
 ## Documents
 
 - [Incorporation Documents (Bylaws & Covenants)](/static/pdfs/governing/VEHOA-Bylaws-Covenants.pdf)
-- [2018 Finances](/static/pdfs/financial/2018-Finances.pdf)
-- [2019 Finances](/static/pdfs/financial/2019-Finances.pdf)
-- [2020 Financial Statements](/static/pdfs/financial/VEHOA-2020-Financial-Statements.pdf)
-- [2021 Budget](/static/pdfs/financial/VEHOA-2021-Budget.pdf)
+- [2025 Year-End Financials](/static/pdfs/financial/Village-East-2025-Financials.pdf)
+- [2026 Proposed Budget](/static/pdfs/financial/BUDGET-2026.pdf)
+
+[Additional documents →](/documents/meetings/)
 
 ## Mailing Address
 
