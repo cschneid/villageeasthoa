@@ -12,6 +12,7 @@
       <h1><a href="/">{{ site.title }}</a></h1>
       <p class="tagline">{{ site.tagline }}</p>
     </div>
+    <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
     <nav>
       <ul class="nav-main">
         <li><a href="/">Home</a></li>
@@ -55,5 +56,16 @@
       {{ site.address.name }}, {{ site.address.street }}, {{ site.address.city }}, {{ site.address.state }} {{ site.address.zip }}
     </p>
   </footer>
+
+  <script>
+    document.querySelector('.nav-toggle').addEventListener('click', function() {
+      document.querySelector('.nav-main').classList.toggle('nav-open');
+    });
+    document.querySelectorAll('.dropdown > span').forEach(function(el) {
+      el.addEventListener('click', function() {
+        this.parentElement.classList.toggle('sub-open');
+      });
+    });
+  </script>
 </body>
 </html>
