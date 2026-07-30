@@ -35,7 +35,12 @@ permalink: /documents/meetings/
 | Month | Minutes |
 |---|---|
 | January (Annual) | [2026-January-Annual.pdf](/static/pdfs/minutes/2026/2026-January-Annual.pdf) |
+| February | [2026-February.pdf](/static/pdfs/minutes/2026/2026-February.pdf) (no meeting) |
 | March | [2026-March.pdf](/static/pdfs/minutes/2026/2026-March.pdf) |
+| April | [2026-April.pdf](/static/pdfs/minutes/2026/2026-April.pdf) (no meeting) |
+| May | [2026-May.pdf](/static/pdfs/minutes/2026/2026-May.pdf) |
+| June | [2026-June.pdf](/static/pdfs/minutes/2026/2026-June.pdf) |
+| July | [2026-July.pdf](/static/pdfs/minutes/2026/2026-July.pdf) |
 
 ### 2025
 
