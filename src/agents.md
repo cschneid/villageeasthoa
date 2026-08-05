@@ -23,6 +23,7 @@ Primary expenditures are pool and park upkeep.
 - [Incorporation Documents (Bylaws & Covenants)](/static/pdfs/governing/VEHOA-Bylaws-Covenants.pdf)
 - [2025 Year-End Financials](/static/pdfs/financial/Village-East-2025-Financials.pdf)
 - [2026 Proposed Budget](/static/pdfs/financial/BUDGET-2026.pdf)
+- [Certificate of Property Insurance (2026)](/static/pdfs/insurance/Village-East-HOA-Insurance-Certificate-2026.pdf) — current, policy period 01/09/2026 – 01/09/2027
 - [Insurance Declarations (2023)](/static/pdfs/insurance/Village-East-HOA-Insurance-2023.pdf)
 
 [Additional documents →](/documents/meetings/)

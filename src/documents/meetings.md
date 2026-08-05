@@ -24,6 +24,7 @@ permalink: /documents/meetings/
 
 ## Insurance
 
+- [Certificate of Property Insurance 2026](/static/pdfs/insurance/Village-East-HOA-Insurance-Certificate-2026.pdf)
 - [Insurance 2023](/static/pdfs/insurance/Village-East-HOA-Insurance-2023.pdf)
 
 ---
