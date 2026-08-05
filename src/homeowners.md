@@ -42,3 +42,11 @@ P.O. Box 270767
 Fort Collins, CO 80527
 
 **Contact:** [hoavillageeast@gmail.com](mailto:hoavillageeast@gmail.com)
+
+## Community Standards
+
+The HOA's authority is limited to the common areas and Association finances.
+Property maintenance, nuisance, parking, and tree concerns are handled by the
+City of Fort Collins — see
+[Community Standards & Reporting Concerns](/neighborhood/standards/) for contacts
+and reporting links.
